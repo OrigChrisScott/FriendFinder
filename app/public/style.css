@@ -1,0 +1,90 @@
+button > span {
+	margin-left: 5px;
+	margin-right: 15px;
+}
+
+h3 {
+	margin-bottom: 10px;
+}
+
+label {
+	color: #337ab7;
+	font-size: 18px;
+	font-style: italic;
+	margin-left: -15px;
+}
+
+.btn {
+	margin-top: 40px;
+}
+
+.footer-links {
+	margin-left: 20px;
+	margin-top: 0px;
+}
+
+.form-actions {
+	margin: 0;
+	text-align: center;
+}
+
+.form-group {
+	clear: both;
+}
+
+.form-group > h3 {
+	margin-bottom: 15px;
+	margin-top: 0;
+}
+
+.jumbotron {
+	margin-bottom: 20px;
+}
+
+.modal-body > h4 {
+	font-size: 32px;
+}
+
+.modal-body > h5 {
+	font-size: 18px;
+}
+
+.modal-body > img {
+	float: left;
+	margin-bottom: 30px;
+	margin-right: 35px;
+}
+
+.modal-footer {
+	clear: both;
+}
+
+.modal-header > h5 {
+	font-size: 20px;
+}
+
+.submit {
+	font-size: 18px;
+	padding: 14px 40px 14px 35px;
+}
+
+#friendMatchText {
+	font-size: 14px;
+	margin-top: 40px;
+}
+
+#friendPhoto {
+	margin-right; 35px;
+}
+
+#main-logo {
+	margin-right: 40px;
+	width: 150px;
+}
+
+#required {
+	color: #CC3333;
+	float: right;
+	font-size: 16px;
+	margin-left: 20px;
+}
